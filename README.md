@@ -20,11 +20,11 @@ Returns an array with items evenly indexed
 
 #### For Development
 ```js
-<script src=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/even-index/master/even-index.js"></script>
 ```
 #### For Production
 ```js
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/even-index/e1e72d3a/even-index.js"></script>
 ```
 
 ## Usage
