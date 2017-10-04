@@ -1,0 +1,35 @@
+{
+  "name": "even-index",
+  "version": "1.0.0",
+  "description": "Returns an array with items evenly indexed",
+  "main": "even-index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/even-index.git"
+  },
+  "keywords": [
+    "even",
+    "number",
+    "array",
+    "index",
+    "elements"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/even-index/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/even-index#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.0",
+    "node-readme": "^0.1.9"
+  }
+}
